@@ -1,0 +1,42 @@
+Task,Start Date,End Date,Duration (days),Milestone
+Define Project Scope and Objectives,11/27/2023,11/28/2023,2,
+Set Up Project Environment and Tools,11/29/2023,12/01/2023,3,
+Review User Stories and Technical Tasks,12/02/2023,12/03/2023,2,
+Sprint 1 Planning and Task Breakdown,12/04/2023,12/06/2023,3,
+Develop Fitness Tracker - Data Storage System,12/07/2023,12/16/2023,8,Completion of Fitness Tracker - Data Storage System
+Sprint 1 Execution and Sprint 2 Planning,12/17/2023,01/02/2024,17,
+Sprint 1 Execution: Fitness Tracker,12/17/2023,12/26/2023,8,
+Review and Evaluate Sprint 1 Results,12/27/2023,12/28/2023,2,
+Sprint 2 Planning and Task Breakdown,12/29/2023,12/31/2023,3,
+Develop Medication Tracker - Electronic Pillbox with Alarms,01/01/2024,01/12/2024,12,Completion of Medication Tracker - Electronic Pillbox with Alarms
+Sprint 2 Execution and Finalization,01/13/2024,01/28/2024,16,
+Sprint 2 Execution: Medication Tracker,01/13/2024,01/22/2024,10,
+Review and Evaluate Sprint 2 Results,01/23/2024,01/24/2024,2,
+Sprint 3 Planning and Task Breakdown,01/25/2024,01/27/2024,3,
+Develop Electronic Address Book - Secure Database for Contact Data,01/28/2024,02/04/2024,8,Completion of Electronic Address Book - Secure Database for Contact Data
+Finalize Integration of Completed Features,02/05/2024,02/09/2024,5,
+Sprint 3 Execution and Sprint 4 Planning,02/10/2024,02/25/2024,15,
+Sprint 3 Execution: Electronic Address Book,02/10/2024,02/19/2024,8,
+Review and Evaluate Sprint 3 Results,02/20/2024,02/21/2024,2,
+Sprint 4 Planning and Task Breakdown,02/22/2024,02/24/2024,3,
+Develop Emergencies List - GPS Mapping Integration,02/25/2024,03/05/2024,10,Completion of Emergencies List - GPS Mapping Integration
+Sprint 4 Execution and Sprint 5 Planning,03/06/2024,03/21/2024,16,
+Sprint 4 Execution: Emergencies List,03/06/2024,03/15/2024,8,
+Review and Evaluate Sprint 4 Results,03/16/2024,03/17/2024,2,
+Sprint 5 Planning and Task Breakdown,03/18/2024,03/20/2024,3,
+Develop Emergency Information List - Secure Storage,03/21/2024,03/30/2024,10,Completion of Emergency Information List - Secure Storage
+Sprint 5 Execution and Sprint 6 Planning,03/31/2024,04/15/2024,16,
+Sprint 5 Execution: Emergency Information List,03/31/2024,04/09/2024,8,
+Review and Evaluate Sprint 5 Results,04/10/2024,04/11/2024,2,
+Sprint 6 Planning and Task Breakdown,04/12/2024,04/14/2024,3,
+Develop Resources Feature - Links to Health Websites,04/15/2024,04/24/2024,8,Completion of Resources Feature - Links to Health Websites
+Sprint 6 Execution and Finalization,04/25/2024,05/10/2024,16,
+Sprint 6 Execution: Resources Feature,04/25/2024,05/04/2024,8,
+Review and Evaluate Sprint 6 Results,05/05/2024,05/06/2024,2,
+Integration of All Completed Features,05/07/2024,05/13/2024,7,
+User Acceptance Testing (UAT) and Feedback,05/14/2024,05/18/2024,5,User Acceptance Testing Completed
+Final Iteration and Release Planning,05/19/2024,06/03/2024,16,
+Address UAT Feedback and Make Final Adjustments,05/19/2024,05/25/2024,7,
+Sprint 7 Planning and Task Breakdown,05/26/2024,05/28/2024,3,
+Finalize Secure Payment System Integration,05/29/2024,06/09/2024,10,Final Secure Payment System Integration
+Release Planning and Coordination,06/10/2024,06/14/2024,5,
